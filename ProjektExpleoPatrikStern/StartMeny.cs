@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjektExpleoPatrikStern
+namespace ProjektPatrikStern
 {
     class StartMeny
     {
@@ -31,7 +31,7 @@ namespace ProjektExpleoPatrikStern
                         await FindAllLinks.Links.Dialog();
                         break;
                     case ConsoleKey.D3:
-                        Calculator.Calculator.CalculatorOptions();
+                        Calculator.CalculatorL1.CalculatorOptions();
                         break;
                     case ConsoleKey.Q:
                         Loop = false;

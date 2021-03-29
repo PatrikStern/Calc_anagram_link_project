@@ -9,7 +9,7 @@ using HtmlAgilityPack;
 using System.Net.Http;
 using System.Text.RegularExpressions;
 
-namespace ProjektExpleoPatrikStern.FindAllLinks
+namespace ProjektPatrikStern.FindAllLinks
 {
     public class Links
     {

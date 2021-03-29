@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 
 
-namespace ProjektExpleoPatrikStern
+namespace ProjektPatrikStern
 {
     class Program
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjektExpleoPatrikStern.Anagram
+namespace ProjektPatrikStern.Anagram
 {
     public class Anagram
     {
