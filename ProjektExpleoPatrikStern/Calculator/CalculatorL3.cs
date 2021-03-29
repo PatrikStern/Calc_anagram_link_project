@@ -18,7 +18,7 @@ namespace ProjektPatrikStern.Calculator
                 int controller = 0;
                 int firstRun = 0;
 
-                Console.WriteLine("This calculator handles multiple number calculations with different operators in some          combinations.\n" +
+                Console.WriteLine("This calculator handles multiple number calculations with different operators in some combinations.\n" +
                         "Funtional operators = + - * /.\n" +
                         "Starting negative number not supported.\n" +
                         "Give calculation serie as full string: ");
