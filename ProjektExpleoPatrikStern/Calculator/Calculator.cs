@@ -34,6 +34,7 @@ namespace ProjektExpleoPatrikStern.Calculator
                         CalculatorLevel3();
                         break;
                     case ConsoleKey.B: StartMeny.startMeny();
+                        Loop = false;
                         break;
                     default: Console.WriteLine("Use 1-3 to make your selection, or press B to go back to meny.");
                         break;
